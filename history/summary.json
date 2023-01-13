@@ -23,18 +23,18 @@
     "icon": "https://www.vainapp.com.br/favicon.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-13": 26
+      "2023-01-13": 35
     }
   },
   {
@@ -42,17 +42,19 @@
     "url": "https://status.vainapp.com.br",
     "icon": "https://www.vainapp.com.br/favicon.ico",
     "slug": "uptime",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 147,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
+    "dailyMinutesDown": {
+      "2023-01-13": 0
+    }
   }
 ]
