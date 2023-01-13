@@ -10,6 +10,10 @@ sites:
     url: $SECRET_API_URL
     icon: https://www.vainapp.com.br/favicon.ico
     method: GET
+  - name: Uptime
+    url: https://status.vainapp.com.br
+    icon: https://www.vainapp.com.br/favicon.ico
+    method: GET
 status-website:
   cname: status.vainapp.com.br
   logoUrl: https://vainapp.com.br/logo.png
