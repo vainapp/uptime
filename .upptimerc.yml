@@ -1,6 +1,5 @@
-# Change these first
-owner: vainapp # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: vainapp
+repo: uptime
 
 sites:
   - name: Site
@@ -15,6 +14,7 @@ sites:
     icon: https://www.vainapp.com.br/favicon.ico
     method: GET
 status-website:
+  theme: light
   cname: status.vainapp.com.br
   logoUrl: https://vainapp.com.br/logo.png
   name: Vain Status
