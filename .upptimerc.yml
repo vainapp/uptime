@@ -3,20 +3,20 @@ repo: uptime
 
 sites:
   - name: Site
-    url: https://vainapp.com.br
-    icon: https://www.vainapp.com.br/favicon.ico
+    url: https://dev.vainapp.com.br
+    icon: https://dev.vainapp.com.br/favicon.ico
   - name: API
     url: $SECRET_API_URL
-    icon: https://www.vainapp.com.br/favicon.ico
+    icon: https://dev.vainapp.com.br/favicon.ico
     method: GET
   - name: Uptime
     url: https://status.vainapp.com.br
-    icon: https://www.vainapp.com.br/favicon.ico
+    icon: https://dev.vainapp.com.br/favicon.ico
     method: GET
 status-website:
   theme: light
   cname: status.vainapp.com.br
-  logoUrl: https://vainapp.com.br/logo.png
+  logoUrl: https://dev.vainapp.com.br/logo.png
   name: Vain Status
   introTitle: "**Vain Status**"
   introMessage: Stay up to date on the status of all our services. If there are any problems with any of our services, we will also give you updates here.
