@@ -44,19 +44,17 @@
     "icon": "https://dev.vainapp.com.br/favicon.ico",
     "slug": "api-docs",
     "status": "up",
-    "uptime": "2.97%",
-    "uptimeDay": "2.97%",
-    "uptimeWeek": "2.97%",
-    "uptimeMonth": "2.97%",
-    "uptimeYear": "2.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 443,
     "timeDay": 443,
     "timeWeek": 443,
     "timeMonth": 443,
     "timeYear": 443,
-    "dailyMinutesDown": {
-      "2023-01-25": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Uptime",
