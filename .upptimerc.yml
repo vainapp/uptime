@@ -9,6 +9,9 @@ sites:
     url: $SECRET_API_URL
     icon: https://dev.vainapp.com.br/favicon.ico
     method: GET
+  - name: API Docs
+    url: $SECRET_API_DOCS_URL
+    icon: https://dev.vainapp.com.br/favicon.ico
   - name: Uptime
     url: https://status.vainapp.com.br
     icon: https://dev.vainapp.com.br/favicon.ico
