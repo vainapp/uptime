@@ -11,6 +11,8 @@ sites:
     method: GET
   - name: API Docs
     url: $SECRET_API_DOCS_URL
+    expectedStatusCodes:
+      - 401
     icon: https://dev.vainapp.com.br/favicon.ico
   - name: Uptime
     url: https://status.vainapp.com.br
