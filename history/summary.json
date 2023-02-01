@@ -40,7 +40,7 @@
     "url": "$SECRET_API_URL",
     "icon": "https://dev.vainapp.com.br/favicon.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
