@@ -4,6 +4,8 @@ repo: uptime
 sites:
   - name: Site
     url: https://dev.vainapp.com.br
+  - name: Dashboard
+    url: https://dashboard-dev.vainapp.com.br
   - name: CDN
     url: https://cdn.vainapp.com.br/website/logo.png
     icon: https://dev.vainapp.com.br/favicon.ico
