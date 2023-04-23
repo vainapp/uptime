@@ -80,9 +80,9 @@
     "url": "$SECRET_API_DOCS_URL",
     "icon": "https://dev.vainapp.com.br/favicon.ico",
     "slug": "api-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 561,
     "timeMonth": 612,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-23": 0
+    }
   },
   {
     "name": "Uptime",
