@@ -58,10 +58,10 @@
     "url": "$SECRET_API_URL",
     "icon": "https://dev.vainapp.com.br/favicon.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 615,
@@ -70,6 +70,7 @@
     "timeMonth": 653,
     "timeYear": 615,
     "dailyMinutesDown": {
+      "2023-04-28": 1,
       "2023-02-09": 19,
       "2023-01-24": 98,
       "2023-01-13": 85
@@ -80,9 +81,9 @@
     "url": "$SECRET_API_DOCS_URL",
     "icon": "https://dev.vainapp.com.br/favicon.ico",
     "slug": "api-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +92,9 @@
     "timeWeek": 562,
     "timeMonth": 606,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-28": 0
+    }
   },
   {
     "name": "Uptime",
